@@ -2,8 +2,8 @@ let settings = {}; // Initialize settings object
 
 settings = {
     autoLowParkingPoints: 5,
-    autoLowRubblePoints: 1,
-    autoHighRubblePoints: 3,
+    autoLowRubblePoints: 3,
+    autoHighRubblePoints: 6,
     teleopLowRubblePoints: 1,
     teleopHighRubblePoints: 3,
     teleopOrbitPoints: 5,
